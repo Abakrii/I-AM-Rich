@@ -1,5 +1,5 @@
 # I-AM-Rich
 
 
-<img src="https://github.com/AbdelrahmanSalemBakry111/React-Native-Awesome-Places/blob/master/gif/2018_07_26_16_45_11%5B1%5D.gif?raw=true" width="240">
-https://github.com/Abakrii/I-AM-Rich/blob/master/README.md
+<img src="https://github.com/Abakrii/I-AM-Rich/blob/master/Screen%20Shot%202018-10-18%20at%201.07.26%20PM.png?raw=true" width="240">
+
